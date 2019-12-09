@@ -2,9 +2,10 @@
 
 Ovaj program omogućava ispisivanje podataka na već postojeće prazne uplatnice na papiru A4 formata. Podaci koje upisujemo (ime, prezime, adresa, IBAN, model,...) možemo pomicati ovisno o postavljenoj X i Y koordinati koje možemo mijenjati ovisno o tome odgovara li nam pozicija podataka ili ne. IBAN i ime primatelja možemo po potrebi mijenjati i pomicati po uplatnici. Program također ima i "backup" kojim vraća koordinate koje odgovaraju uplatnici koja nam treba. Svi podaci se ispisuju na papir formata A4 na kojem se u obliku slike nalaze 3 uplatnice. Nakon ispisivanja, svi podaci su upisani na odgovarajuća mjesta na uplatnicama.
 
+# Download
 
-# Screenshot-i programa
 
+# Slike zaslona programa
 
 Prozor u kojem biramo koju uplatnicu želimo popuniti.
 
