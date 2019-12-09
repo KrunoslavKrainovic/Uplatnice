@@ -63,10 +63,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaImeIPrezimeButton() {
+    public void pomjeranjeTextaImeIPrezimeButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaImeIPrezime.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaImeIPrezime.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -75,10 +75,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaAdresaButton() {
+    public void pomjeranjeTextaAdresaButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaAdresa.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaAdresa.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -87,10 +87,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaGradIPostanskibrojButton() {
+    public void pomjeranjeTextaGradIPostanskibrojButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaGradIPostanskibroj.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaGradIPostanskibroj.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -99,10 +99,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaIzosButton() {
+    public void pomjeranjeTextaIzosButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaIznos.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaIznos.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -111,10 +111,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaModelButton() {
+    public void pomjeranjeTextaModelButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaModel.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaModel.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -123,10 +123,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaBrojPrimateljaButton() {
+    public void pomjeranjeTextaBrojPrimateljaButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaBrojPrimatelja.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaBrojPrimatelja.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -135,10 +135,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaOpisPlacanjaButton() {
+    public void pomjeranjeTextaOpisPlacanjaButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaOpisPlacanja.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaOpisPlacanja.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -147,10 +147,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaIznosIValutaButton() {
+    public void pomjeranjeTextaIznosIValutaButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaIznosIValuta.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaIznosIValuta.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -159,10 +159,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaRacunPrimateljaButton() {
+    public void pomjeranjeTextaRacunPrimateljaButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaRacunPrimatelja.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaRacunPrimatelja.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -171,10 +171,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaModelIPozivPrimateljaButton() {
+    public void pomjeranjeTextaModelIPozivPrimateljaButton() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaModelIPozivPrimatelja.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaModelIPozivPrimatelja.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -183,10 +183,10 @@ public class UnosDrugeUplatniceController {
     }
 
     @FXML
-    public void pomijeranjeTextaOpisPlacanjaDesniDio() {
+    public void pomjeranjeTextaOpisPlacanjaDesniDio() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaOpisPlacanjaDesniDio.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaOpisPlacanjaDesniDio.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {

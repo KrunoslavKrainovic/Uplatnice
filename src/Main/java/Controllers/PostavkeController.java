@@ -1,8 +1,6 @@
 package Main.java.Controllers;
 import Main.java.Glavna.Main;
-import Main.java.Service.CsvService;
 import Main.java.Service.DrawingService;
-import Main.java.Service.OdabirControllera;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.RadioButton;
@@ -10,7 +8,6 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 import java.io.IOException;
-import java.net.URISyntaxException;
 
 public class PostavkeController {
 
@@ -65,10 +62,10 @@ public class PostavkeController {
     }
 
     @FXML
-    public void PomijeranjeTextaPostavkeRacunPrimatelja() {
+    public void PomjeranjeTextaPostavkeRacunPrimatelja() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaPostavkeRacunPrimatelja.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaPostavkeRacunPrimatelja.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -77,10 +74,10 @@ public class PostavkeController {
     }
 
     @FXML
-    public void PomijeranjeTextaPostavkeImePrimateljaPrimateljaPrviDio() {
+    public void PomjeranjeTextaPostavkeImePrimateljaPrimateljaPrviDio() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaPostavkeImePrimateljaPrviDio.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaPostavkeImePrimateljaPrviDio.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {
@@ -89,10 +86,10 @@ public class PostavkeController {
     }
 
     @FXML
-    public void PomijeranjeTextaPostavkeImePrimateljaPrimateljaDrugiDio() {
+    public void PomjeranjeTextaPostavkeImePrimateljaPrimateljaDrugiDio() {
         BorderPane root;
         try {
-            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomijeranjeTextaPostavkeImePrimateljaDrugiDio.fxml"));
+            root = FXMLLoader.load(getClass().getClassLoader().getResource("UiDesign/PomjeranjeTextaPostavkeImePrimateljaDrugiDio.fxml"));
             Main.setPomjeranjePage(root);
             root.requestFocus();
         } catch (IOException e) {

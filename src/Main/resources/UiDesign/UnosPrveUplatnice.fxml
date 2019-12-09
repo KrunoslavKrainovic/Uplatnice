@@ -65,57 +65,57 @@
                   <Insets left="-200.0" top="280.0" />
                </HBox.margin>
             </Button>
-            <Button minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaImeIPrezimeButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaImeIPrezimeButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-70.0" top="35.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="192.0" layoutY="45.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaAdresaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="192.0" layoutY="45.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaAdresaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="85.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="192.0" layoutY="95.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaGradIPostanskibrojButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="192.0" layoutY="95.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaGradIPostanskibrojButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="135.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="192.0" layoutY="145.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaIzosButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="192.0" layoutY="145.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaIzosButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="185.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="192.0" layoutY="195.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaModelButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="192.0" layoutY="195.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaModelButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="235.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="172.0" layoutY="245.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaBrojPrimateljaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="172.0" layoutY="245.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaBrojPrimateljaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="210.0" top="35.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="397.0" layoutY="45.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaOpisPlacanjaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="397.0" layoutY="45.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaOpisPlacanjaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="85.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="397.0" layoutY="95.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaIznosIValutaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="397.0" layoutY="95.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaIznosIValutaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="135.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="397.0" layoutY="145.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaRacunPrimateljaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="397.0" layoutY="145.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaRacunPrimateljaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="185.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="397.0" layoutY="195.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaModelIPozivPrimateljaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="397.0" layoutY="195.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaModelIPozivPrimateljaButton" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-15.0" top="235.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="399.0" layoutY="95.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomijeranjeTextaOpisPlacanjaDesniDio" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="399.0" layoutY="95.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#pomjeranjeTextaOpisPlacanjaDesniDio" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="5.0" top="85.0" />
                </HBox.margin>

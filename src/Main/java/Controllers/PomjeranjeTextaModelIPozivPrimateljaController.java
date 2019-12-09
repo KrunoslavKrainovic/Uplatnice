@@ -1,4 +1,5 @@
 package Main.java.Controllers;
+
 import Main.java.Service.DrawingService;
 import Main.java.Service.OdabirControllera;
 import javafx.fxml.FXML;
@@ -8,32 +9,25 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 
 
-
-public class PomijeranjeTextaImeIPrezimeController {
+public class PomjeranjeTextaModelIPozivPrimateljaController {
     @FXML
-    TextField pomijeranjePoX;
+    TextField pomjeranjePoX;
     @FXML
-    TextField pomijeranjePoY;
+    TextField pomjeranjePoY;
     @FXML
     private javafx.scene.control.Button spremiButton;
 
     OdabirControllera odabirControllera = new OdabirControllera();
     DrawingService brojUplatnice = new DrawingService();
 
-
     @FXML
-    public void initialize() throws IOException, URISyntaxException {
-       odabirControllera.odabirPlacehooldera(brojUplatnice.getBrojUplatnice(),0,pomijeranjePoX,pomijeranjePoY);
-
-
+    public void initialize() throws URISyntaxException {
+         odabirControllera.odabirPlacehooldera(brojUplatnice.getBrojUplatnice(),9, pomjeranjePoX, pomjeranjePoY);
     }
     @FXML
     public void spremanjePozicije() throws IOException, URISyntaxException {
-        odabirControllera.spremanjeSekcije(0,pomijeranjePoX,pomijeranjePoY);
+        odabirControllera.spremanjeSekcije(9, pomjeranjePoX, pomjeranjePoY);
         Stage stage = (Stage) spremiButton.getScene().getWindow();
         stage.close();
-
     }
-
-
 }

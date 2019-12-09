@@ -32,17 +32,17 @@
                   <Insets left="-87.0" top="200.0" />
                </HBox.margin>
             </Button>
-            <Button maxHeight="15.0" maxWidth="15.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#PomijeranjeTextaPostavkeRacunPrimatelja" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button maxHeight="15.0" maxWidth="15.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#PomjeranjeTextaPostavkeRacunPrimatelja" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="40.0" top="35.0" />
                </HBox.margin>
             </Button>
-            <Button maxHeight="15.0" maxWidth="15.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#PomijeranjeTextaPostavkeImePrimateljaPrimateljaPrviDio" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button maxHeight="15.0" maxWidth="15.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#PomjeranjeTextaPostavkeImePrimateljaPrimateljaPrviDio" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-16.0" top="85.0" />
                </HBox.margin>
             </Button>
-            <Button layoutX="173.0" layoutY="95.0" maxHeight="15.0" maxWidth="15.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#PomijeranjeTextaPostavkeImePrimateljaPrimateljaDrugiDio" prefHeight="15.0" prefWidth="15.0" text="Button">
+            <Button layoutX="173.0" layoutY="95.0" maxHeight="15.0" maxWidth="15.0" minHeight="15.0" minWidth="15.0" mnemonicParsing="false" onAction="#PomjeranjeTextaPostavkeImePrimateljaPrimateljaDrugiDio" prefHeight="15.0" prefWidth="15.0" text="Button">
                <HBox.margin>
                   <Insets left="-16.0" top="135.0" />
                </HBox.margin>

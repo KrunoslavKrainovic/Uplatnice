@@ -9,11 +9,11 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 
 
-public class PomijeranjeTextaBrojPrimateljaController {
+public class PomjeranjeTextaBrojPrimateljaController {
     @FXML
-    TextField pomijeranjePoX;
+    TextField pomjeranjePoX;
     @FXML
-    TextField pomijeranjePoY;
+    TextField pomjeranjePoY;
     @FXML
     private javafx.scene.control.Button spremiButton;
 
@@ -21,12 +21,12 @@ public class PomijeranjeTextaBrojPrimateljaController {
     DrawingService brojUplatnice = new DrawingService();
 
     @FXML
-    public void initialize() throws IOException, URISyntaxException {
-         odabirControllera.odabirPlacehooldera(brojUplatnice.getBrojUplatnice(),5,pomijeranjePoX,pomijeranjePoY);
+    public void initialize() throws URISyntaxException {
+         odabirControllera.odabirPlacehooldera(brojUplatnice.getBrojUplatnice(),5, pomjeranjePoX, pomjeranjePoY);
     }
     @FXML
     public void spremanjePozicije() throws IOException, URISyntaxException {
-        odabirControllera.spremanjeSekcije(5,pomijeranjePoX,pomijeranjePoY);
+        odabirControllera.spremanjeSekcije(5, pomjeranjePoX, pomjeranjePoY);
         Stage stage = (Stage) spremiButton.getScene().getWindow();
         stage.close();
     }
