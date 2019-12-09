@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Uplatnice">
+    <output-path>$PROJECT_DIR$/out/artifacts/Uplatnice</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main.java.Glavna.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="windowsIcon" value="$PROJECT_DIR$/src/Main/resources/Icons/taxes.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Uplatnice.jar">
+        <element id="module-output" name="Uplatnice" />
+      </element>
+      <element id="library" level="application" name="javafx-swt" />
+      <element id="library" level="project" name="Maven: com.opencsv:opencsv:4.1" />
+      <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.3" />
+      <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.6" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-text:1.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:11" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:11" />
+    </root>
+  </artifact>
+</component>
