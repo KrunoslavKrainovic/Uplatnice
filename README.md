@@ -28,7 +28,7 @@ Kada kliknemo Postavke menu i odaberemo unos novog primatelja otvori nam se proz
 
 ![Prozor za upis novog primatelja](https://user-images.githubusercontent.com/58593872/70475788-99dd6100-1ad5-11ea-944a-d51425d58f54.JPG)
 
-Kada odaberemo željenu uplatnicu te odaberemo gumb pored inputa za text,otvori nam se prozor za promjenu X Y koordinate
+Kada odaberemo željenu uplatnicu te odaberemo gumb pored inputa za text,otvori nam se prozor za pomicanje X Y koordinate
 ovisno o tome koju smo uplatnicu odabrali.
 
 ![Prozor za upis kordinata za primatelja](https://user-images.githubusercontent.com/58593872/70476501-1886ce00-1ad7-11ea-8814-d62addb278bd.JPG)
