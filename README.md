@@ -15,7 +15,7 @@ Prozor koji dobijemo kada otvorimo željenu uplatnicu u kojem upisujemo podatke 
 
 ![Prozor za upis podataka](https://user-images.githubusercontent.com/58593872/70475789-99dd6100-1ad5-11ea-95dc-eddca473b634.JPG)
 
-Kada kliknemo gumb pored inputa za text otvori nam se prozor u kojem možemo promjenit postojeće koordinate.
+Kada kliknemo gumb pored inputa za text otvori nam se prozor u kojem možemo promijeniti postojeće koordinate.
 
 ![Prozor za upis kordinata](https://user-images.githubusercontent.com/58593872/70475787-99dd6100-1ad5-11ea-81b0-e5aeb5ec23c5.JPG)
 
