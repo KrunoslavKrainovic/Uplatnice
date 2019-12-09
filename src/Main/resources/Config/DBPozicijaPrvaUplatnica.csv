@@ -1,15 +1,15 @@
-333;333
-120;190
-120;230
-1200;120
-650;450
-1200;450
-1200;520
-2000;115
-2000;200
-1850;460
-1830;550
-1200;285
-1850;365
-90;470
-90;530
+120;150; //imeIPrezime
+120;190; //adresa
+120;230; //gradIPostanskibroj
+1200;120; //iznos
+650;450; //model
+1200;450; //brojPrimatelja
+1200;520; //opisPlacanja
+2000;115; //iznosIvaluta
+2000;200; //racunPrimatelja
+1850;460; // modelIPozivPrimatelja
+1830;550; //opisPlacanjaLijevi
+1200;285; //racunprimatelja
+1850;365; //racunprimatelja
+90;470; //imePrimatelja1Dio
+90;530; //imePrimatelja2Dio

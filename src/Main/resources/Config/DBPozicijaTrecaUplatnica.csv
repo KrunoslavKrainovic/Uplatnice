@@ -1,15 +1,15 @@
-120;2520; //imeIPrezimeX
-120;2560; //adresaX
-120;2600; //gradIPostanskibrojX
-1200;2460; //iznosX
-650;1520; //modelX
-1200;2790; //brojPrimateljaX
-1200;2860; //opisPlacanjaX
-2000;2455; //iznosIvalutaX
-2000;2540; //racunPrimateljaX
-1850;2705; // modelIPozivPrimateljaX
-1830;2970; //opisPlacanjaXLijevi
-1200;2625
-1850;2800
-90;2840
-90;2900
+120;2520; //imeIPrezime
+120;2560; //adresa
+120;2600; //gradIPostanskibroj
+1200;2460; //iznos
+650;1520; //model
+1200;2790; //brojPrimatelja
+1200;2860; //opisPlacanja
+2000;2455; //iznosIvaluta
+2000;2540; //racunPrimatelja
+1850;2705; // modelIPozivPrimatelja
+1830;2970; //opisPlacanjaLijevi
+1200;2625; //racunprimatelja
+1850;2800; //racunprimatelja
+90;2840; //imePrimatelja1Dio
+90;2900; //imePrimatelja2Dio
